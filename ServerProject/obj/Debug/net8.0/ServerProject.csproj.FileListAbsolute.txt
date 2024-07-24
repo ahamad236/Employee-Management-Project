@@ -1,0 +1,76 @@
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.exe
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.deps.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.runtimeconfig.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.pdb
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.AssemblyReference.cache
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfoInputs.cache
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfo.cs
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.ServerProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerProject.props
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerProject.props
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerProject.props
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\scopedcss\bundle\ServerProject.styles.css
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerPr.A886E461.Up2Date
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\refint\ServerProject.dll
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.pdb
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.genruntimeconfig.cache
+C:\Users\Pakeer\Desktop\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ref\ServerProject.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.exe
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.deps.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.runtimeconfig.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\ServerProject.pdb
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.AssemblyReference.cache
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfoInputs.cache
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfo.cs
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.ServerProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ServerProject.props
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServerProject.props
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServerProject.props
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\scopedcss\bundle\ServerProject.styles.css
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerPr.A886E461.Up2Date
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\refint\ServerProject.dll
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.pdb
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ServerProject.genruntimeconfig.cache
+C:\Users\Pakeer\Desktop\Old Projects Locked on 22-7-2024\EmployeeManagementProject\ServerProject\obj\Debug\net8.0\ref\ServerProject.dll
